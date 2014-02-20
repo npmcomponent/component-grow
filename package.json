@@ -1,0 +1,11 @@
+{
+  "name": "component-grow",
+  "description": "Grow textareas",
+  "version": "0.0.1",
+  "keywords": [
+    "grow",
+    "textarea"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
